@@ -2,7 +2,7 @@ You should install a software on your pc . PCOID works on windows ,linux and mac
 
 PCOID is an app which allows you to remotly control your pc.
 
-Desktop app : https://pradeeppsapps.github.io/
+Desktop app : https://pcoid.github.io/
 
 Android app : https://play.google.com/store/apps/details?id=prad.mob.PCPS
 
