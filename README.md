@@ -19,6 +19,7 @@ Features :
 Mouse,
 Keyboard,
 Control presentation on pc via phone,
+Terminal control,
 PC screen stream,
 Mobile screen stream,
 File transfer,
