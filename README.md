@@ -36,14 +36,34 @@ https://pcoid.github.io/pcoid/
 # PCOID desktop software.
 
 |![PCOID Software](1.PNG)
+
+# game window
 |![game window](2.PNG)
+
+# Mobile screen stream
 |![Typing Screen](3.PNG)
-|![Image Viewer Screen](4.jpg) 
-|![Presentation Screen](5.jpg) 
-|![Downloading File Screen](6.jpg) 
-|![Desktop App](7.jpg) 
-|![Desktop Image Viewer](8.jpg) |
-| ![Music Control Screen](9.jpg)|
+
+# connection screen
+|![connection screen](4.jpg) 
+
+# Pc screen stream
+|![Pc screen stream](5.jpg) 
+
+# Video stream
+|![Video stream](6.jpg) 
+
+# file on mobile
+|![file on mobile](7.jpg) 
+
+# Game pad
+
+|![Game pad](8.jpg) |
+
+
+| ![android](9.jpg)|
+
+# terminal
+| ![terminal](10.jpg)|
 
 
 
