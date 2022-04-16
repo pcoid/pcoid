@@ -32,9 +32,9 @@
 https://pcoid.github.io/pcoid/
 
 ## Screenshots
-|  |  |
-| --- 
-#PCOID desktop software
+
+# PCOID desktop software.
+
 |![PCOID Software](1.PNG)
 |![game window](2.PNG)
 |![Typing Screen](3.PNG)
