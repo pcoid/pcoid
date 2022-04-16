@@ -34,8 +34,9 @@ https://pcoid.github.io/pcoid/
 ## Screenshots
 |  |  |
 | --- 
-|![Live Screen](1.PNG)
-|![Touchpad Screen](2.PNG)
+#PCOID desktop software
+|![PCOID Software](1.PNG)
+|![game window](2.PNG)
 |![Typing Screen](3.PNG)
 |![Image Viewer Screen](4.jpg) 
 |![Presentation Screen](5.jpg) 
