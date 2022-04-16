@@ -34,9 +34,9 @@ https://pcoid.github.io/pcoid/
 ## Screenshots
 |  |  |
 | --- | --- |
-|![Live Screen](./screenshots/live-screen.png) | ![Connection Screen](1.png)|
-|![Touchpad Screen](./screenshots/touchpad.png) | ![Navigation Screen](2.png)|
-|![Typing Screen](./screenshots/keyboard.png) | ![Media Player Screen](3.png)|
+|![Live Screen](1.png) | ![Connection Screen](1.png)|
+|![Touchpad Screen](2.png) | ![Navigation Screen](2.png)|
+|![Typing Screen](./screenshots/keyboard.png) | ![Media Player Screen](3.jpg)|
 |![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](4.png)|
 |![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](5.png)|
 |![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](6.png)|
