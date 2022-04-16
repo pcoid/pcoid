@@ -26,7 +26,7 @@
 20.  moniter control
 
 ### Android app link
-[![Android App](./screenshots/google-play.png)](https://play.google.com/store/apps/details?id=prad.mob.PCPS)
+[![Android App](google-play.png)](https://play.google.com/store/apps/details?id=prad.mob.PCPS)
 
 ### Desktop app link
 https://pcoid.github.io/pcoid/
