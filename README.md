@@ -34,13 +34,15 @@ https://pcoid.github.io/pcoid/
 ## Screenshots
 |  |  |
 | --- | --- |
-|![Live Screen](1.png) | ![Connection Screen](1.PNG)|
-|![Touchpad Screen](2.png) | ![Navigation Screen](2.png)|
-|![Typing Screen](./screenshots/keyboard.png) | ![Media Player Screen](3.jpg)|
-|![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](4.jpg)|
-|![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](5.png)|
-|![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](6.png)|
-|![Desktop App](./screenshots/desktop.png) |![Desktop Image Viewer](7.png) |
+|![Live Screen](1.PNG) | ![Connection Screen](1.PNG)|
+|![Touchpad Screen](2.PNG) | ![Navigation Screen](2.png)|
+|![Typing Screen](3.PNG) | ![Media Player Screen](3.jpg)|
+|![Image Viewer Screen](4.jpg) | ![File Transfer Screen](4.jpg)|
+|![Presentation Screen](5.jpg) | ![Power Off Screen](5.png)|
+|![Downloading File Screen](6.jpg) 
+|![Desktop App](7.jpg) 
+|![Desktop Image Viewer](8.jpg) |
+| ![Music Control Screen](9.jpg)|
 
 
 
