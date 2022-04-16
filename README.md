@@ -34,13 +34,13 @@ https://pcoid.github.io/pcoid/
 ## Screenshots
 |  |  |
 | --- | --- |
-|![Live Screen](./screenshots/live-screen.png) | ![Connection Screen](./screenshots/connect.png)|
-|![Touchpad Screen](./screenshots/touchpad.png) | ![Navigation Screen](./screenshots/navigation-drawer.png)|
-|![Typing Screen](./screenshots/keyboard.png) | ![Media Player Screen](./screenshots/media-player.png)|
-|![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](./screenshots/file-transfer.png)|
-|![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](./screenshots/power-off.png)|
-|![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](./screenshots/music-control.png)|
-|![Desktop App](./screenshots/desktop.png) |![Desktop Image Viewer](./screenshots/desktop-image-viewer.png) |
+|![Live Screen](./screenshots/live-screen.png) | ![Connection Screen](1.png)|
+|![Touchpad Screen](./screenshots/touchpad.png) | ![Navigation Screen](2.png)|
+|![Typing Screen](./screenshots/keyboard.png) | ![Media Player Screen](3.png)|
+|![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](4.png)|
+|![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](5.png)|
+|![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](6.png)|
+|![Desktop App](./screenshots/desktop.png) |![Desktop Image Viewer](7.png) |
 
 
 
