@@ -33,7 +33,7 @@ https://pcoid.github.io/pcoid/
 
 ## Screenshots
 |  |  |
-| --- | --- |
+| --- 
 |![Live Screen](1.PNG)
 |![Touchpad Screen](2.PNG)
 |![Typing Screen](3.PNG)
